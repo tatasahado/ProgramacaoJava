@@ -25,8 +25,5 @@ public class TesteAtribuicaoVariaveis1 {
         System.out.println("d="+d);
 	}
 	
-	
-	
-	
-
+			
 }
